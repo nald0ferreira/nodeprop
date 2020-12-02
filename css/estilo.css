@@ -30,7 +30,7 @@ img{
 }
 /*===========BG-COLORS==========*/
 .bg-gradient{
-  background: linear-gradient(to right, red, orange)
+  background: linear-gradient(to right, red, orange) 
 }
 .bg-black{
   background-color: #130400;
