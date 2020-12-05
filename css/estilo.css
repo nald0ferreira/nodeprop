@@ -199,3 +199,8 @@ form{
   color: #fff;
   
 }
+/*===== MOBILE FIRST =====*/
+/*Small Devices*/
+@media screen and (min-width:480px){
+  
+}
